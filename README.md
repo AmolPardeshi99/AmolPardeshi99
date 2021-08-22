@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amolpardeshi99" alt="amolpardeshi99" /></a> </p>
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmolPardeshi99?tab=repositories](https://github.com/AmolPardeshi99?tab=repositories)
 
