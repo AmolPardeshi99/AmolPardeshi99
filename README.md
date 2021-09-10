@@ -9,7 +9,6 @@
 - 📝 I regularly write articles on [https://medium.com/@pardeshiamol772](https://medium.com/@pardeshiamol772)
 
 - 📫 How to reach me **pardeshiamol772@gmail.com**
-- 
 
 
 <h3 align="left">Languages and Tools:</h3>
