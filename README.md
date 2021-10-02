@@ -3,7 +3,6 @@
 
 
 
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmolPardeshi99?tab=repositories](https://github.com/AmolPardeshi99?tab=repositories)
