@@ -1,31 +1,30 @@
-<h1 align="center">Hi 👋 , I'm Amol </h1>
-<h3 align="center">Android Developer from India</h3>
+Hi folks :wave:
+
+<ul>
+  
+<li>:iphone: Android Engineer </li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me:
+ <a href="https://www.linkedin.com/in/amolpardeshi" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a>         </li>
+  <li>:man: Pronouns: He/Him/His</li>
+ <li>:receipt: Resume: <a href="https://drive.google.com/file/d/1qAgI5oaUTJcHNF4zuJ86vqp60mzUZGfz/view?usp=sharing">view</a></li>
+  
+  <li>:fire: Portfolio: <a href="https://AmolPardeshi99.github.io/">visit</a></li>
+</ul>
+
+
+---
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="42" height="42"/>    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java Logo" width="50" height="50"/>    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" alt="Android SDK" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>    
+
+---
 
 
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmolPardeshi99&theme=chartreuse-dark)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmolPardeshi99?tab=repositories](https://github.com/AmolPardeshi99?tab=repositories)
-
-- 📝 I regularly write articles on [https://medium.com/@pardeshiamol772](https://medium.com/@pardeshiamol772)
-
-- 📫 How to reach me **pardeshiamol772@gmail.com**
+![Amol's GitHub statistics](https://github-readme-stats.vercel.app/api?username=AmolPardeshi99&show_icons=true&theme=chartreuse-dark)
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amolpardeshi99&show_icons=true&locale=en&layout=compact" alt="amolpardeshi99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amolpardeshi99&show_icons=true&locale=en" alt="amolpardeshi99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amolpardeshi99&" alt="amolpardeshi99" /></p>
-
-
-
-
-
-
-
+![Amol's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmolPardeshi99&theme=dracula)
