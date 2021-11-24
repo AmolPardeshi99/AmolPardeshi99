@@ -14,6 +14,9 @@
  <li>:receipt: Resume: <a href="https://drive.google.com/drive/folders/1sNVmGw7ymb1lVb2HrtwRHYaQv0Gk-_hU?usp=sharing">view</a></li>
   
   <li>:: Portfolio: <a href="https://amolpardeshi99.github.io/">visit</a></li>
+ 
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/amolpardeshi/)
+
 </ul>
 
 
