@@ -6,7 +6,6 @@
 <ul>
 # About me
  
- 
 My programming journey started in the year 2020. Inspite of having a background in mechanical engineering my curiosity towards Android development began after discovering the functioning of applications.
 
 I am an enthusiastic individual who is highly skilled in Android Development and Data Structure and Algorithms. I also possess good knowledge of programming languages such as Java and Kotlin. I have a good understanding of the GitHub version tool and design architectures like Model View Controller(MVC), Model-View-View-Model(MVVM). I can adapt and learn new things quickly while also paying attention to small details.
@@ -16,15 +15,17 @@ I want to contribute to the tech industry by using my problem-solving and techni
 
 My interests include traveling, reading self-help books. I also enjoy building a network with people who are growth-oriented. I have also recently discovered blogging and graphic designing.
  
-<li>:iphone: Android Engineer </li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me:
- <a href="https://www.linkedin.com/in/amolpardeshi" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a></li>
-  <li>:man: Pronouns: He/Him/His</li>
+<li>:iphone:  Android Engineer </li>
+ <li>:man: Pronouns: He/Him/His</li>
+ 
+<li><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="19" height="19"/>   How to reach me:
+  <a href="mailto:pardeshiamol772@gmail.com">  Amol Pardeshi  </a></li>
+  
  <li>:receipt: Resume: <a href="https://drive.google.com/drive/folders/1sNVmGw7ymb1lVb2HrtwRHYaQv0Gk-_hU?usp=sharing">view</a></li>
   
-  <li>:: Portfolio: <a href="https://amolpardeshi99.github.io/">visit</a></li>
+  <li><img src="https://www.vhv.rs/dpng/d/414-4143328_internet-images-png-png-collections-at-sccpre-internet.png" alt="Portfolio" width="19" height="19"/> Portfolio: <a href="https://amolpardeshi99.github.io/">visit</a></li>
  
- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/amolpardeshi/)
+  <li><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="19" height="19"/> LinkedIn: <a href="https://www.linkedin.com/in/amolpardeshi/">visit</a></li>
 
 </ul>
 
