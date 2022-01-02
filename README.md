@@ -7,14 +7,14 @@
 # About me
  
  
-My programming journey started in the year 2020. Inspite of having a background in mechanical engineering my curiosity towards Android development began after discovering the functioning of applications.
+<!-- My programming journey started in the year 2020. Inspite of having a background in mechanical engineering my curiosity towards Android development began after discovering the functioning of applications.
 
 I am an enthusiastic individual who is highly skilled in Android Development and Data Structure and Algorithms. I also possess good knowledge of programming languages such as Java and Kotlin. I have a good understanding of the GitHub version tool and design architectures like Model View Controller(MVC), Model-View-View-Model(MVVM). I can adapt and learn new things quickly while also paying attention to small details.
 My experience as a production engineer which helped enhance various skills such as organizing, team building, leadership, etc. I contributed to the installation of an automobile plant.
 
 I want to contribute to the tech industry by using my problem-solving and technical skills. I wish to increase my knowledge and build applications that will contribute to both society and help in the growth of the organization.
 
-My interests include traveling, reading self-help books. I also enjoy building a network with people who are growth-oriented. I have also recently discovered blogging and graphic designing.
+My interests include traveling, reading self-help books. I also enjoy building a network with people who are growth-oriented. I have also recently discovered blogging and graphic designing. -->
  
 <li>:iphone:  Android Engineer </li>
  <li>:man: Pronouns: He/Him/His</li>
