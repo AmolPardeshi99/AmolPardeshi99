@@ -27,6 +27,7 @@ My interests include traveling, reading self-help books. I also enjoy building a
   <li><img src="https://www.vhv.rs/dpng/d/414-4143328_internet-images-png-png-collections-at-sccpre-internet.png" alt="Portfolio" width="19" height="19"/> Portfolio: <a href="https://amolpardeshi99.github.io/">visit</a></li>
  
   <li><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="19" height="19"/> LinkedIn: <a href="https://www.linkedin.com/in/amolpardeshi/">visit</a></li>
+ 
 
 </ul>
 
