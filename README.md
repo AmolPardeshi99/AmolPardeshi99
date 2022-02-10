@@ -29,6 +29,7 @@ My interests include traveling, reading self-help books. I also enjoy building a
  
   <li><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="19" height="19"/> LinkedIn: <a href="https://www.linkedin.com/in/amolpardeshi/">visit</a></li>
  
+ 
 
 </ul>
 
