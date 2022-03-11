@@ -17,6 +17,7 @@ I want to contribute to the tech industry by using my problem-solving and techni
 
 My interests include traveling, reading self-help books. I also enjoy building a network with people who are growth-oriented. I have also recently discovered blogging and graphic designing. -->
  
+ 
 <li>:iphone:  Android Engineer </li>
  <li>:man: Pronouns: He/Him/His</li>
  
