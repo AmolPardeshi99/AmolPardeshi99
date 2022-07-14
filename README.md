@@ -9,7 +9,6 @@
 <!-- My programming journey started in the year 2020. Inspite of having a background in mechanical engineering my curiosity towards Android development began after discovering the functioning of applications.
 
 
-
 I am an enthusiastic individual who is highly skilled in Android Development and Data Structure and Algorithms. I also possess good knowledge of programming languages such as Java and Kotlin. I have a good understanding of the GitHub version tool and design architectures like Model View Controller(MVC), Model-View-View-Model(MVVM). I can adapt and learn new things quickly while also paying attention to small details.
 My experience as a production engineer which helped enhance various skills such as organizing, team building, leadership, etc. I contributed to the installation of an automobile plant.
 
