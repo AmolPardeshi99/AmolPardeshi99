@@ -24,7 +24,8 @@ My interests include traveling, reading self-help books. I also enjoy building a
 <li>:iphone:  Android Engineer </li>
  <li>:man: Pronouns: He/Him/His</li>
  
- 
+ - 💬 Ask me about **Android / Kotlin / Java / Mobile App Development**
+
 <li><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="19" height="19"/>   How to reach me:
   <a href="mailto:pardeshiamol772@gmail.com">  Amol Pardeshi  </a></li>
   
