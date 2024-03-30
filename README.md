@@ -8,6 +8,7 @@
 <ul>
 # About me:
 
+
  
 <!-- My programming journey started in the year 2020. Inspite of having a background in mechanical engineering my curiosity towards Android development began after discovering the functioning of applications.   ...
 
