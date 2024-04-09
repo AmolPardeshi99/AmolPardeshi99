@@ -56,4 +56,4 @@ My interests include traveling, reading self-help books. I also enjoy building a
 ![Amol's GitHub statistics](https://github-readme-stats.vercel.app/api?username=AmolPardeshi99&show_icons=true&theme=chartreuse-dark)
 
 
-![Amol's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmolPardeshi99&theme=dracula)
+<!--- ![Amol's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmolPardeshi99&theme=dracula)  -->
